@@ -1,0 +1,9 @@
+.item {
+  padding: 16px 0;
+}
+
+.author {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}

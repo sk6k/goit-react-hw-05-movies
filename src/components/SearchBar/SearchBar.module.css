@@ -1,0 +1,23 @@
+.container {
+  width: 1200px;
+  padding: 0 20px;
+}
+
+.input {
+  width: 400px;
+  margin-right: 12px;
+}
+
+.button {
+  cursor: pointer;
+  background-color: coral;
+  border: 1px solid coral;
+  border-radius: 4px;
+  color: #fff;
+  transition: color 250ms linear, background-color 250ms linear;
+
+  &:hover {
+    color: coral;
+    background-color: #fff;
+  }
+}
